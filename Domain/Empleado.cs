@@ -14,6 +14,6 @@ namespace Domain
         public int Edad { get; set; }
         public string Carnet { get; set; }
         public string Oficio { get; set; }
-
+         //xd
     }
 }
